@@ -2,7 +2,7 @@
 
 ; yuzi1
 ; Submitted by PAUSE yuzi1<xiaoxingxing341@outlook.com,https://linux.do/u/yuzi1/summary>
-Example	86400   IN	NS	ns1.gcorelabs.net.
-Example	86400	IN	NS	ns2.gcdn.services.
+86400   IN	NS	ns1.gcorelabs.net.
+86400	IN	NS	ns2.gcdn.services.
 
 ; ========== END ORGANIZATIONS ================
